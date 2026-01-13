@@ -292,9 +292,10 @@ If you use this code in your research, please cite:
 @software{rps_benchmark,
   title = {RPS-Benchmark: Multi-Agent Rock-Paper-Scissors Tournament Framework},
   year = {2025},
-  url = {https://github.com/your-repo/rps-benchmark}
+  url = {https://github.com/oudeng/RPS}
 }
 ```
+Our paper has been submitted to a journal. The arXiv link will be available soon.
 
 ---
 
