@@ -1,0 +1,9 @@
+seat,agent,idxname
+1,R,01_R
+2,CG,02_CG
+3,WL,03_WL
+4,B_v2,04_B_v2
+5,M_v2,05_M_v2
+6,RNN_v2,06_RNN_v2
+7,LSTM_v2,07_LSTM_v2
+8,Tr_v2,08_Tr_v2
