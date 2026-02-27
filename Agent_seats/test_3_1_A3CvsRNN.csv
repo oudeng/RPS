@@ -1,0 +1,3 @@
+﻿seat,agent,score,wins,losses,draws,win_rate,seed
+1,A3C_v2,1547,7306,5759,5935,0.384526316,89
+2,RNN_v2,1276,7343,6067,5590,0.38647368,5
