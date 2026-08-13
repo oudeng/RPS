@@ -122,13 +122,13 @@ code_RPS/
 ## Citation
 
 ```bibtex
-@article{deng2026rps,
-  title={Population-dependent agent performance in non-transitive games:
-         a multi-agent Rock--Paper--Scissors benchmark},
-  author={Deng, Ou and Xu, Jianting and Nishimura, Shoji and Ogihara, Atsushi and Jin, Qun},
-  journal={Scientific Reports},
-  year={2026},
-  note={Under review}
+@article{Deng2026RPS,
+	title = {Population-dependent agent performance in non-transitive games: a multi-agent rock--paper--scissors benchmark},
+	author = {Deng, Ou and Xu, Jianting and Nishimura, Shoji and Ogihara, Atsushi and Jin, Qun},
+	journal = {Scientific Reports},
+	doi = {10.1038/s41598-026-55417-9},
+	url = {https://doi.org/10.1038/s41598-026-55417-9},
+	year = {2026}
 }
 ```
 
